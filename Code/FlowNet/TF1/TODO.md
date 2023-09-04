@@ -1,0 +1,3 @@
+- Test with simple loss from Left disparity
+- Use both disparity in a random manner
+- Use both disparity to get consistency

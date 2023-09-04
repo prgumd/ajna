@@ -1,0 +1,2001 @@
+[101133.422685] usb 2-1.1: USB disconnect, device number 9
+[101140.339542] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[112370.860447] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[134650.478259] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[134650.478269] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[134650.478275] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[134650.478278] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[150300.677654] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[194930.358798] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[194930.358805] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+[194930.358810] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00001000/00002000
+[194930.358814] pcieport 0000:00:03.0: AER:    [12] Timeout               
+[195313.886809] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[207582.160045] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[211780.866970] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 2
+[211801.351800] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[218801.727798] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[218801.727804] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[218801.727807] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[218801.727810] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[260924.843755] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[260924.843763] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[260924.843767] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[260924.843770] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[273632.323413] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[274981.031375] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[277138.075797] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[280790.449417] input: 04:52:C7:EF:B0:79 as /devices/virtual/input/input26
+[282867.653664] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 2
+[283632.200763] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[283761.034020] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[284940.594201] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[287058.920962] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[289218.409497] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[290887.101794] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[305288.783980] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[305288.783994] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[305288.784003] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[305288.784009] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[305748.806255] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[305748.806265] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[305748.806270] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[305748.806273] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[308893.228612] perf: interrupt took too long (4947 > 4937), lowering kernel.perf_event_max_sample_rate to 40250
+[362492.300607] kauditd_printk_skb: 39 callbacks suppressed
+[362492.300609] audit: type=1400 audit(1600193785.997:51): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/core/9993/usr/lib/snapd/snap-confine" pid=26130 comm="apparmor_parser"
+[362492.300723] audit: type=1400 audit(1600193785.997:52): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/core/9993/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=26130 comm="apparmor_parser"
+[362492.457337] audit: type=1400 audit(1600193786.153:53): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.core.hook.configure" pid=26149 comm="apparmor_parser"
+[362492.947054] audit: type=1400 audit(1600193786.645:54): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.gnome-logs" pid=26152 comm="apparmor_parser"
+[362493.006530] audit: type=1400 audit(1600193786.701:55): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.gnome-characters" pid=26151 comm="apparmor_parser"
+[362493.011634] audit: type=1400 audit(1600193786.709:56): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.gnome-calculator" pid=26150 comm="apparmor_parser"
+[362493.059977] audit: type=1400 audit(1600193786.757:57): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.gnome-system-monitor" pid=26153 comm="apparmor_parser"
+[362493.067895] audit: type=1400 audit(1600193786.765:58): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.core" pid=26168 comm="apparmor_parser"
+[362493.072118] audit: type=1400 audit(1600193786.769:59): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.gnome-characters.gnome-characters" pid=26170 comm="apparmor_parser"
+[362493.072252] audit: type=1400 audit(1600193786.769:60): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.gnome-calculator.gnome-calculator" pid=26169 comm="apparmor_parser"
+[363835.162259] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[363835.162267] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[363835.162270] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[363835.162272] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[364466.884545] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[364466.884550] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[364466.884553] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[364466.884555] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[365313.822451] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[365313.822459] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[365313.822463] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[365313.822465] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[365333.618333] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[366448.433772] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[366448.433780] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[366448.433784] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[366448.433786] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[367173.737231] usb 2-1.1: new full-speed USB device number 10 using ehci-pci
+[367189.153867] usb 2-1.1: device descriptor read/64, error -110
+[367204.770502] usb 2-1.1: device descriptor read/64, error -110
+[367204.958548] usb 2-1.1: new full-speed USB device number 11 using ehci-pci
+[367220.387200] usb 2-1.1: device descriptor read/64, error -110
+[367236.003777] usb 2-1.1: device descriptor read/64, error -110
+[367236.111903] usb 2-1-port1: attempt power cycle
+[367236.715809] usb 2-1.1: new full-speed USB device number 12 using ehci-pci
+[367247.396304] usb 2-1.1: device not accepting address 12, error -110
+[367248.452298] usb 2-1.1: new full-speed USB device number 14 using ehci-pci
+[367266.409059] usb 2-1.1: new full-speed USB device number 15 using ehci-pci
+[367288.937948] usb 2-1.1: new full-speed USB device number 16 using ehci-pci
+[367302.250526] usb 2-1.1: new full-speed USB device number 17 using ehci-pci
+[367317.671117] usb 2-1.1: device descriptor read/64, error -110
+[367333.295746] usb 2-1.1: device descriptor read/64, error -110
+[367333.483776] usb 2-1.1: new full-speed USB device number 18 using ehci-pci
+[367348.904382] usb 2-1.1: device descriptor read/64, error -110
+[367364.521048] usb 2-1.1: device descriptor read/64, error -110
+[367364.629157] usb 2-1-port1: attempt power cycle
+[367365.237058] usb 2-1.1: new full-speed USB device number 19 using ehci-pci
+[367375.913541] usb 2-1.1: device not accepting address 19, error -110
+[367375.993552] usb 2-1.1: new full-speed USB device number 20 using ehci-pci
+[367386.669961] usb 2-1.1: device not accepting address 20, error -110
+[367386.670056] usb 2-1-port1: unable to enumerate USB device
+[368404.971530] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[369772.185356] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[369772.185369] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[369772.185378] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[369772.185384] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[370524.790169] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[370870.039601] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[370870.039607] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[370870.039610] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[370870.039612] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[372131.052006] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[372131.052012] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[372131.052015] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[372131.052018] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[373568.989078] kauditd_printk_skb: 14 callbacks suppressed
+[373568.989081] audit: type=1400 audit(1600204862.233:75): apparmor="DENIED" operation="open" profile="/usr/bin/evince-previewer" name="/var/lib/snapd/desktop/icons/" pid=11476 comm="evince-previewe" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[373882.975661] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[375778.465220] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[375778.465246] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[375778.465251] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[375778.465255] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[376477.045483] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[376477.045490] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[376477.045494] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[376477.045496] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[379077.579610] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[379151.994647] usb 2-1.1: new full-speed USB device number 21 using ehci-pci
+[379167.375275] usb 2-1.1: device descriptor read/64, error -110
+[379182.995916] usb 2-1.1: device descriptor read/64, error -110
+[379183.183923] usb 2-1.1: new full-speed USB device number 22 using ehci-pci
+[379198.604548] usb 2-1.1: device descriptor read/64, error -110
+[379214.225191] usb 2-1.1: device descriptor read/64, error -110
+[379214.333249] usb 2-1-port1: attempt power cycle
+[379214.937223] usb 2-1.1: new full-speed USB device number 23 using ehci-pci
+[379225.617652] usb 2-1.1: device not accepting address 23, error -110
+[379225.705653] usb 2-1.1: new full-speed USB device number 24 using ehci-pci
+[379236.366086] usb 2-1.1: device not accepting address 24, error -110
+[379236.366146] usb 2-1-port1: unable to enumerate USB device
+[379274.871663] usb 2-1.1: new full-speed USB device number 25 using ehci-pci
+[379287.416165] usb 2-1.1: new full-speed USB device number 26 using ehci-pci
+[379287.525320] usb 2-1.1: New USB device found, idVendor=1209, idProduct=5741, bcdDevice= 2.00
+[379287.525323] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[379287.525325] usb 2-1.1: Product: KakuteF7Mini-BL
+[379287.525326] usb 2-1.1: Manufacturer: ArduPilot
+[379287.525328] usb 2-1.1: SerialNumber: 450036001251383130353438
+[379287.591936] cdc_acm 2-1.1:1.0: ttyACM0: USB ACM device
+[379287.592217] usbcore: registered new interface driver cdc_acm
+[379287.592219] cdc_acm: USB Abstract Control Model driver for USB modems and ISDN adapters
+[379292.313198] usb 2-1.1: USB disconnect, device number 26
+[379292.540398] usb 2-1.1: new full-speed USB device number 27 using ehci-pci
+[379292.649452] usb 2-1.1: New USB device found, idVendor=1209, idProduct=5741, bcdDevice= 2.00
+[379292.649455] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[379292.649458] usb 2-1.1: Product: KakuteF7Mini
+[379292.649459] usb 2-1.1: Manufacturer: ArduPilot
+[379292.649461] usb 2-1.1: SerialNumber: 450036001251383130353438
+[379292.649898] cdc_acm 2-1.1:1.0: ttyACM0: USB ACM device
+[379349.146265] usb 2-1.1: USB disconnect, device number 27
+[379351.670801] usb 2-1.1: new full-speed USB device number 28 using ehci-pci
+[379367.059447] usb 2-1.1: device descriptor read/64, error -110
+[379382.676064] usb 2-1.1: device descriptor read/64, error -110
+[379382.868065] usb 2-1.1: new full-speed USB device number 29 using ehci-pci
+[379398.292694] usb 2-1.1: device descriptor read/64, error -110
+[379413.913333] usb 2-1.1: device descriptor read/64, error -110
+[379414.021458] usb 2-1-port1: attempt power cycle
+[379414.641415] usb 2-1.1: new full-speed USB device number 30 using ehci-pci
+[379425.301789] usb 2-1.1: device not accepting address 30, error -110
+[379425.389796] usb 2-1.1: new full-speed USB device number 31 using ehci-pci
+[379436.054240] usb 2-1.1: device not accepting address 31, error -110
+[379436.054367] usb 2-1-port1: unable to enumerate USB device
+[379466.871547] usb 2-1.1: new full-speed USB device number 32 using ehci-pci
+[379482.264118] usb 2-1.1: device descriptor read/64, error -110
+[379497.880813] usb 2-1.1: device descriptor read/64, error -110
+[379498.068806] usb 2-1.1: new full-speed USB device number 33 using ehci-pci
+[379513.497408] usb 2-1.1: device descriptor read/64, error -110
+[379529.114060] usb 2-1.1: device descriptor read/64, error -110
+[379529.222090] usb 2-1-port1: attempt power cycle
+[379529.826097] usb 2-1.1: new full-speed USB device number 34 using ehci-pci
+[379540.506547] usb 2-1.1: device not accepting address 34, error -110
+[379540.586501] usb 2-1.1: new full-speed USB device number 35 using ehci-pci
+[379542.144306] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[379542.144312] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[379542.144317] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[379542.144321] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[379551.258963] usb 2-1.1: device not accepting address 35, error -110
+[379551.259122] usb 2-1-port1: unable to enumerate USB device
+[381494.508006] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[383990.794857] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[383990.794864] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[383990.794867] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[383990.794870] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[384097.750052] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[384097.750057] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[384097.750059] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[384097.750060] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[384248.763205] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[384430.202900] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[384430.202906] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[384430.202909] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[384430.202910] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[386418.393139] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[386738.948576] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[386738.948586] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[386738.948591] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=000000c0/00002000
+[386738.948594] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[386738.948597] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[387129.785904] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[387129.785914] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[387129.785918] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[387129.785922] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[387167.150464] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[387167.150471] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[387167.150475] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[387167.150476] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[387214.722167] usb 2-1.1: new full-speed USB device number 36 using ehci-pci
+[387214.836354] usb 2-1.1: New USB device found, idVendor=05a7, idProduct=40fe, bcdDevice= 1.00
+[387214.836356] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[387214.836357] usb 2-1.1: Product: Bose QC35 II
+[387214.836358] usb 2-1.1: Manufacturer: Bose Corporation
+[387214.836359] usb 2-1.1: SerialNumber: 077061T93330241AZ
+[387214.840722] hid-generic 0003:05A7:40FE.0007: hiddev1,hidraw5: USB HID v1.11 Device [Bose Corporation Bose QC35 II] on usb-0000:00:1d.0-1.1/input0
+[387274.076604] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[387296.489533] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[387383.713884] usb 2-1.1: USB disconnect, device number 36
+[392168.137395] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[392168.137400] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[392168.137403] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[392168.137405] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[392730.128511] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[392883.325583] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[392883.325590] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[392883.325594] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[392883.325596] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[397517.024960] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[397517.024971] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[397517.024977] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[397517.024980] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[398577.697132] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[398577.697137] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[398577.697139] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[398577.697140] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[401541.912405] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[401541.912412] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[401541.912415] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[401541.912418] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[403421.572541] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[403421.572547] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[403421.572549] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[403421.572551] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[403636.916014] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[404385.757359] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[404385.757363] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[404385.757366] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[404385.757367] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[404962.723933] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[404962.723940] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[404962.723944] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[404962.723946] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[405116.135571] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[405116.135575] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[405116.135579] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[405116.135581] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[405423.805265] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[405423.805272] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[405423.805275] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[405423.805277] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[406940.406119] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[406940.406124] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[406940.406127] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[406940.406129] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[407601.281466] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[407601.281475] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[407601.281478] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[407601.281480] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[407687.084954] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[408251.360773] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[408251.360780] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[408251.360784] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[408251.360786] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[409398.144438] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[409398.144445] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[409398.144449] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[409398.144451] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[410509.033485] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[410509.033492] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[410509.033495] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[410509.033497] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[411731.262430] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[411731.262437] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[411731.262441] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[411731.262443] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[412545.054698] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[412545.054705] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[412545.054709] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[412545.054711] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[412790.513801] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[412790.513810] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[412790.513813] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[412790.513816] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[412867.192914] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[412867.192938] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[412867.192942] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[412867.192944] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[413078.948964] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[413078.948972] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[413078.948976] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[413078.948978] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[416023.498264] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[416023.498269] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[416023.498272] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[416023.498274] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[417349.973329] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[417349.973336] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[417349.973340] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[417349.973342] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[417963.898654] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[417963.898660] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[417963.898664] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[417963.898666] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[418337.909095] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[418337.909102] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[418337.909105] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[418337.909107] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[418936.485875] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[418936.485881] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[418936.485884] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[418936.485886] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[421976.627235] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[421976.627241] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[421976.627245] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[421976.627247] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[424585.212909] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[424585.212915] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[424585.212919] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[424585.212921] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[424612.723482] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[424612.723489] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[424612.723492] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[424612.723494] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[424863.890596] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[424863.890614] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[424863.890620] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[424863.890624] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[425527.005261] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[425527.005265] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[425527.005267] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[425527.005268] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[426068.703757] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[426068.703762] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[426068.703765] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[426068.703767] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[427447.164240] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[427447.164250] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[427447.164255] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[427447.164259] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[428324.084250] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[428324.084257] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[428324.084261] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[428324.084263] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[429216.823084] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[429216.823089] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[429216.823092] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[429216.823094] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[429461.482222] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[429461.482229] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[429461.482232] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[429461.482234] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[431152.280351] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[431152.280357] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[431152.280360] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[431152.280362] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[432090.172450] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[432090.172456] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[432090.172460] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[432090.172462] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[434563.755412] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[434563.755420] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[434563.755423] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[434563.755426] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[436267.693715] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[436267.693720] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[436267.693723] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[436267.693725] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[438925.395218] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[438925.395225] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[438925.395227] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[438925.395228] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[439173.022345] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[439476.347671] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[439476.347675] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[439476.347679] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[439476.347681] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[439641.641500] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 2
+[441057.608591] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[441057.608596] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[441057.608599] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[441057.608601] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[441352.441214] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[441352.441218] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[441352.441221] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[441352.441223] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[442677.864422] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[442677.864428] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[442677.864433] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[442677.864435] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[442707.889527] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[442707.889535] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[442707.889538] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[442707.889541] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[442750.695841] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[442750.695848] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[442750.695851] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[442750.695854] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[444229.666342] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[444229.666348] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[444229.666351] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[444229.666353] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[444502.988479] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[444502.988485] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[444502.988489] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[444502.988491] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[444657.830168] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[447945.666363] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[447945.666368] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[447945.666370] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[447945.666371] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[448089.053447] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[448089.053453] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[448089.053455] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[448089.053456] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[448742.599906] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[448742.599911] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[448742.599914] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[448742.599916] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[449114.203558] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[449114.203565] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[449114.203568] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[449114.203570] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[449392.319504] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[449392.319509] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[449392.319511] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[449392.319512] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[449541.416885] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[449541.416895] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[449541.416902] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[449541.416906] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[450009.539746] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[450009.539753] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[450009.539757] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[450009.539759] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[450293.873247] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[450293.873252] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+[450293.873255] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00001000/00002000
+[450293.873258] pcieport 0000:00:03.0: AER:    [12] Timeout               
+[450567.236655] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[450567.236661] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[450567.236663] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[450567.236664] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[451240.496978] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[451240.496985] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[451240.496988] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[451240.496991] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[451530.003676] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[451530.003683] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[451530.003686] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[451530.003688] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[452336.427457] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[453570.733120] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[453570.733127] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[453570.733131] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[453570.733133] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[455776.036589] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[455776.036594] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[455776.036597] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[455776.036598] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[457977.051999] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[457977.052004] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[457977.052007] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[457977.052009] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[460617.444540] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[460617.444545] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[460617.444547] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[460617.444548] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[460992.354825] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[460992.354832] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+[460992.354837] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00001000/00002000
+[460992.354841] pcieport 0000:00:03.0: AER:    [12] Timeout               
+[461539.523436] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[461616.213126] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[461616.213133] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[461616.213137] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[461616.213139] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[462387.588883] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[463196.101861] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[463503.941020] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[463503.941031] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[463503.941036] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[463503.941040] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[463780.006442] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[463780.006448] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[463780.006452] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[463780.006454] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[464133.695237] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[464133.695242] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[464133.695245] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=000000c0/00002000
+[464133.695246] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[464133.695247] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[464181.225808] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[464181.225815] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[464181.225819] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[464181.225821] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[464208.932350] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[464208.932357] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[464208.932360] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[464208.932362] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[464553.753749] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[464553.753755] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[464553.753758] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[464553.753760] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[464634.138818] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[464634.138821] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[464634.138824] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[464634.138825] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[465125.512480] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[466298.734102] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[466298.734110] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[466298.734113] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[466298.734115] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[466846.655820] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[466846.655826] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[466846.655828] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[466846.655830] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[467299.232953] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[467299.232960] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[467299.232964] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[467299.232966] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[467556.848539] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[467556.848544] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[467556.848546] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=000000c0/00002000
+[467556.848548] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[467556.848549] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[467581.127718] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[467581.127723] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[467581.127726] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[467581.127727] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[467743.075140] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[467743.075151] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[467743.075157] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[467743.075161] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[469329.346673] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[469329.346678] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[469329.346680] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[469329.346682] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[470247.340750] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[470247.340760] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[470247.340765] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[470247.340769] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[471897.016797] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[471897.016802] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[471897.016805] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[471897.016808] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[472786.043505] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[472786.043513] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[472786.043517] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[472786.043520] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[473484.827975] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[473484.827989] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[473484.827998] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[473484.828004] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[474462.221727] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[474462.221732] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[474462.221735] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[474462.221736] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[476894.990359] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[476894.990365] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+[476894.990370] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00001000/00002000
+[476894.990373] pcieport 0000:00:03.0: AER:    [12] Timeout               
+[478350.349912] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[478350.349918] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[478350.349921] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[478350.349923] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[478586.783833] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[478586.783839] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[478586.783841] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[478586.783843] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[478632.538271] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[478632.538276] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[478632.538278] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[478632.538279] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[478637.913506] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[478637.913513] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[478637.913518] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[478637.913523] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[479175.025264] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[479175.025269] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[479175.025271] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[479175.025272] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[479280.730939] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[479280.730942] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[479280.730945] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[479280.730946] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[481701.504367] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[481701.504371] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[481701.504373] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[481701.504374] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[482414.240705] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[482414.240709] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[482414.240712] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[482414.240713] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[483093.115384] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[483093.115390] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[483093.115392] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[483093.115393] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[483495.550156] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[483495.550162] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[483495.550164] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[483495.550166] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[484511.174828] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[484511.174832] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[484511.174834] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[484511.174836] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[484589.362000] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[484589.362010] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[484589.362015] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[484589.362019] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[484764.109265] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[484764.109273] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[484764.109277] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=000000c0/00002000
+[484764.109279] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[484764.109280] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[484804.312568] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[484804.312573] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[484804.312576] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[484804.312578] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[485234.391951] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[485234.391962] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[485234.391968] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[485234.391971] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[485924.933699] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[485924.933705] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[485924.933707] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[485924.933708] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[486301.142158] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[486301.142163] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[486301.142166] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[486301.142167] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[486953.739848] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[486953.739857] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[486953.739863] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[486953.739867] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[487488.752409] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[488733.804578] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[488733.804586] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[488733.804590] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[488733.804591] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[488741.347280] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[488741.347287] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[488741.347291] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[488741.347293] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[489504.826538] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[489504.826543] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[489504.826546] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[489504.826548] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[490371.345032] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[490371.345039] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[490371.345042] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[490371.345044] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[490804.606826] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[490804.606833] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[490804.606836] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[490804.606838] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[491506.760257] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[491506.760263] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[491506.760267] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[491506.760269] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[491968.212484] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[491968.212494] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[491968.212498] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[491968.212502] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[492228.473376] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[492228.473383] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[492228.473385] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[492228.473387] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[492395.102327] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[492395.102333] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[492395.102336] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[492395.102338] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[492841.209800] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[492841.209805] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[492841.209808] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[492841.209809] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[493725.771973] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[493725.771979] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[493725.771981] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[493725.771983] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[494306.929848] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[494306.929855] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[494306.929859] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[494306.929861] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[495334.885545] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[495334.885551] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[495334.885554] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[495334.885555] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[495821.284276] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[495821.284282] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[495821.284286] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[495821.284288] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[495844.836173] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[495844.836178] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[495844.836180] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[495844.836182] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[496640.145900] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[496640.145907] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[496640.145912] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[496640.145916] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[497180.680969] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[497180.680979] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[497180.680985] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[497180.680989] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[497626.378726] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[497626.378733] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[497626.378736] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[497626.378738] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[497809.651363] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[497809.651368] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[497809.651371] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[497809.651373] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[498317.407271] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[498317.407278] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[498317.407282] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[498317.407284] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[498326.926012] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[498326.926018] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[498326.926021] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[498326.926023] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[500102.749549] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[500102.749560] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[500102.749566] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[500102.749570] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[502108.476707] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[502108.476715] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[502108.476718] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[502108.476720] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[502319.315037] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[502319.315042] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[502319.315045] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[502319.315047] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[502438.458472] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[502438.458480] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[502438.458483] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[502438.458485] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[503038.375755] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[503038.375760] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[503038.375763] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[503038.375766] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[505357.606790] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[505357.606795] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[505357.606798] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[505357.606799] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[506118.004240] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[506118.004246] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[506118.004249] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=000000c0/00002000
+[506118.004251] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[506118.004252] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[507238.176706] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[507238.176712] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[507238.176716] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[507238.176718] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[511160.187368] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[511160.187374] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[511160.187376] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[511160.187377] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[511677.244455] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[511677.244463] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[511677.244467] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[511677.244469] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[511836.931601] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[511836.931609] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[511836.931613] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[511836.931615] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[512246.867363] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[512246.867369] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[512246.867373] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[512246.867375] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[512445.758602] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[512445.758610] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[512445.758614] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[512445.758616] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[513365.186190] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[513365.186196] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[513365.186200] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[513365.186202] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[513719.748949] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[513719.748957] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[513719.748960] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[513719.748962] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[513947.810115] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[513947.810120] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[513947.810123] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[513947.810126] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[515759.372474] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[515759.372481] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[515759.372484] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[515759.372487] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[515945.656404] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[515945.656409] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[515945.656413] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[515945.656415] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[516198.337023] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[516198.337028] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[516198.337031] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[516198.337033] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[516250.913928] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[516250.913936] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[516250.913940] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[516250.913942] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[518548.099226] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[518548.099232] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[518548.099235] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[518548.099237] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[519086.356660] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[519086.356666] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[519086.356669] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[519086.356670] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[519961.533651] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[519961.533658] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[519961.533661] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[519961.533663] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[521163.834881] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[521163.834886] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[521163.834888] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[521163.834889] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[523906.134264] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[523906.134273] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[523906.134277] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[523906.134279] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[523961.227910] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[523961.227917] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[523961.227920] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[523961.227922] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[524623.253141] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[524623.253150] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[524623.253155] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[524623.253158] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[526185.805232] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[526185.805238] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[526185.805242] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[526185.805244] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[527377.076453] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[527377.076460] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[527377.076463] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[527377.076465] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[530004.594700] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[530004.594707] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[530004.594732] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[530004.594737] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[534457.670660] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[534457.670665] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[534457.670668] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[534457.670670] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[534783.313352] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[534783.313361] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[534783.313365] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[534783.313369] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[537135.300763] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[537135.300766] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[537135.300769] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[537135.300770] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[537446.199429] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[537446.199434] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[537446.199436] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[537446.199438] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[539457.688247] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[539457.688254] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[539457.688257] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[539457.688260] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[540495.164928] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[540495.164935] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[540495.164938] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=000000c0/00002000
+[540495.164940] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[540495.164941] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[540846.293525] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[540846.293532] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[540846.293535] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[540846.293537] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[541337.721911] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[541337.721918] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[541337.721922] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[541337.721924] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[541559.594743] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[541559.594749] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[541559.594753] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[541559.594756] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[541636.309276] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[541636.309281] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[541636.309284] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[541636.309285] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[543721.841966] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[543721.841973] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[543721.841977] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[543721.841980] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[545228.008420] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[545228.008425] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[545228.008428] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[545228.008430] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[546119.915950] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[546119.915958] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[546119.915961] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[546119.915963] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[546324.298816] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[546324.298825] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[546324.298831] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[546324.298835] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[546378.819634] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[546378.819639] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[546378.819642] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[546378.819644] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[546509.365614] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[546509.365619] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[546509.365622] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[546509.365624] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[546644.217632] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[546644.217638] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[546644.217642] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[546644.217644] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[547783.536722] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[547783.536732] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[547783.536737] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[547783.536740] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[548149.497943] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[548149.497947] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[548149.497951] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[548149.497953] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[549657.828975] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[549657.828985] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[549657.828990] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[549657.828994] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[549955.523059] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[549955.523065] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[549955.523067] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[549955.523069] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[552012.005632] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[552012.005638] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[552012.005641] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[552012.005642] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[552553.691361] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[552553.691368] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[552553.691373] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[552553.691376] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[554347.796428] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[554347.796435] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+[554347.796440] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00001000/00002000
+[554347.796444] pcieport 0000:00:03.0: AER:    [12] Timeout               
+[554886.697979] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[554886.697988] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[554886.697994] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[554886.697998] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[554963.530782] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[554963.530790] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[554963.530795] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[554963.530797] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[555220.782468] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[555220.782474] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[555220.782477] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[555220.782479] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[557440.291269] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[557440.291274] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[557440.291277] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[557440.291279] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[558199.970199] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[558199.970207] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[558199.970212] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[558199.970215] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[561407.275633] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[561407.275637] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[561407.275641] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[561407.275643] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[561750.063886] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[561750.063891] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[561750.063894] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[561750.063895] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[561831.617590] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[561831.617598] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[561831.617602] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[561831.617605] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[562092.040518] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[562092.040525] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[562092.040529] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[562092.040531] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[563720.220433] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[563720.220442] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[563720.220448] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[563720.220452] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[563846.579915] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[563846.579921] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[563846.579923] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[563846.579925] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[564159.013900] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[564159.013903] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[564159.013906] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[564159.013908] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[566180.575671] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[566180.575677] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[566180.575680] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[566180.575681] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[566524.256670] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[566524.256675] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[566524.256677] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[566524.256679] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[566762.172434] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[566762.172440] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[566762.172443] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[566762.172444] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[566925.456198] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[566925.456207] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[566925.456214] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[566925.456219] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[569793.470386] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[569793.470392] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[569793.470394] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[569793.470395] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[570175.503632] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[570175.503638] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[570175.503641] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[570175.503642] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[571425.920247] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[571425.920251] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[571425.920253] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[571425.920255] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[572372.860231] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[572372.860236] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[572372.860239] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[572372.860240] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[573789.808487] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[573789.808495] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[573789.808499] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[573789.808502] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[573992.567185] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[573992.567190] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[573992.567192] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[573992.567194] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[575393.594808] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[575393.594814] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[575393.594817] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[575393.594818] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[575656.727783] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[575656.727788] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[575656.727791] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[575656.727792] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[577790.435157] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[577790.435161] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[577790.435164] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[577790.435165] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[578054.116437] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[578054.116444] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[578054.116448] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[578054.116450] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[579283.971226] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[579283.971233] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[579283.971236] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[579283.971238] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[579986.780241] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[579986.780246] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[579986.780248] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[579986.780250] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[580452.904182] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[580452.904196] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[580452.904204] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[580452.904210] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[581149.527848] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[581149.527854] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[581149.527858] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[581149.527860] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[581322.962338] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[581322.962349] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[581322.962353] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[581322.962356] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[581473.821179] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[581473.821186] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[581473.821189] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[581473.821191] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[582055.548130] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[582055.548139] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[582055.548142] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[582055.548144] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[583192.389289] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[583192.389300] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[583192.389306] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[583192.389310] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[583507.425245] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[583507.425249] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[583507.425251] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[583507.425253] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[584489.748409] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[584489.748415] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[584489.748419] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[584489.748421] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[584614.733354] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[584614.733359] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[584614.733362] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[584614.733364] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[584901.713461] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[584901.713469] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[584901.713472] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[584901.713475] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[585439.140945] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[585439.140952] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[585439.140956] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[585439.140958] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[586344.363628] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[586344.363636] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[586344.363640] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[586344.363643] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[586784.358508] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[586784.358514] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[586784.358518] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[586784.358521] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[586971.783666] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[586971.783669] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[586971.783672] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[586971.783673] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[587366.961652] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[587366.961671] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[587366.961675] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[587366.961678] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[588777.306073] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[588777.306080] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[588777.306083] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[588777.306085] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[590361.543908] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[590361.543915] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[590361.543918] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[590361.543920] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[590940.938189] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[590940.938196] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[590940.938200] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[590940.938202] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[591395.499323] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[591395.499329] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[591395.499331] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[591395.499333] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[594892.554409] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[594892.554414] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[594892.554417] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[594892.554418] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[596388.469961] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[596388.469966] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[596388.469969] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[596388.469970] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[596648.436256] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[596648.436262] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[596648.436264] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[596648.436265] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[597475.847412] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[597475.847422] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[597475.847428] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[597475.847432] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[599060.370803] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[599060.370808] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[599060.370811] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[599060.370812] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[603451.793927] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[603451.793934] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[603451.793938] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[603451.793940] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[603643.543668] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[603643.543672] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[603643.543674] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[603643.543676] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[604092.886169] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[604092.886176] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[604092.886179] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[604092.886181] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[604719.069169] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[604719.069177] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[604719.069180] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[604719.069182] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[604761.606579] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[604761.606586] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[604761.606590] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[604761.606592] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[606090.373654] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[606090.373661] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[606090.373665] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[606090.373667] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[606396.523668] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[606396.523680] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[606396.523686] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[606396.523690] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[607268.272120] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[607268.272125] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[607268.272128] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[607268.272129] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[608616.113397] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[608616.113405] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[608616.113409] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[608616.113411] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[608729.124497] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[608729.124501] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[608729.124503] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[608729.124505] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[610116.366440] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[610116.366445] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[610116.366448] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[610116.366450] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[610343.537925] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[610343.537930] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[610343.537933] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[610343.537934] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[610899.856400] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[610899.856405] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[610899.856408] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[610899.856409] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[612508.917465] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[612508.917472] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[612508.917476] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[612508.917478] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[613721.523107] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[613721.523113] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[613721.523115] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[613721.523116] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[614453.599411] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[614453.599422] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[614453.599427] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[614453.599431] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[615804.590779] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[615804.590786] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[615804.590789] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[615804.590791] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[619164.797867] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[619164.797873] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[619164.797877] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[619164.797879] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[619608.008923] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[619608.008930] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[619608.008933] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[619608.008935] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[620746.021759] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[620746.021766] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[620746.021769] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[620746.021772] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[621267.761673] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[621267.761680] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[621267.761683] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[621267.761685] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[621270.359326] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[621270.359336] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[621270.359340] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[621270.359344] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[621974.728840] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[621974.728848] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[621974.728852] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[621974.728855] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[622708.413996] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[622708.414001] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[622708.414004] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[622708.414006] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[622771.739165] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[622771.739172] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[622771.739175] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[622771.739178] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[623485.215488] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[623485.215493] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[623485.215496] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[623485.215498] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[623544.797184] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[623544.797191] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[623544.797195] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[623544.797197] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[625451.234245] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[625451.234252] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[625451.234256] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[625451.234258] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[626019.660553] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[626019.660560] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[626019.660563] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[626019.660566] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[626593.341247] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[626593.341252] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[626593.341255] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[626593.341257] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[627048.872305] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[627048.872315] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[627048.872319] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[627048.872321] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[629164.037280] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[629164.037288] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[629164.037292] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[629164.037294] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[629312.307266] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[629312.307270] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[629312.307272] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[629312.307274] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[629932.325036] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[629932.325044] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[629932.325048] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[629932.325050] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[631291.199172] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[631291.199182] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[631291.199187] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[631291.199190] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[633375.172353] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[633375.172362] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[633375.172367] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[633375.172370] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[635088.306702] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[635088.306708] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[635088.306712] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[635088.306714] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[635378.577467] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[635378.577474] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[635378.577477] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[635378.577480] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[635547.640381] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[635547.640388] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[635547.640391] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[635547.640394] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[636073.796423] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[636073.796431] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[636073.796436] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[636073.796438] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[637186.527958] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[637186.527963] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[637186.527966] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[637186.527967] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[640149.378380] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[640149.378390] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[640149.378396] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[640149.378400] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[642187.858929] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[642187.858934] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[642187.858937] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[642187.858940] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[644399.891152] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[644399.891162] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[644399.891168] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[644399.891172] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[644831.645060] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[644831.645068] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[644831.645074] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[644831.645076] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[646049.238385] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[646049.238392] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[646049.238395] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[646049.238397] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[647051.844138] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[647051.844146] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[647051.844152] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[647051.844156] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[647647.350628] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[647647.350635] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[647647.350639] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[647647.350641] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[650634.339604] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[650634.339611] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[650634.339615] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=000000c0/00002000
+[650634.339617] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[650634.339618] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[650782.454786] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[650782.454794] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[650782.454798] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[650782.454801] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[651465.380083] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[651465.380088] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[651465.380091] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[651465.380092] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[651706.096681] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[651706.096688] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[651706.096692] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[651706.096694] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[651727.324196] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[651727.324201] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[651727.324204] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[651727.324205] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[652322.506947] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[652322.506953] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[652322.506957] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[652322.506959] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[652412.771947] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[652412.771956] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[652412.771962] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[652412.771966] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[653260.302229] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[653260.302243] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[653260.302251] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[653260.302257] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[654008.576686] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[654008.576695] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[654008.576700] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[654008.576704] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[655631.066220] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[655631.066227] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[655631.066231] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[655631.066233] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[658638.227620] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[658638.227626] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[658638.227629] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[658638.227631] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[660897.845089] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[660897.845094] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[660897.845097] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[660897.845098] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[662181.997221] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[662181.997228] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[662181.997231] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[662181.997233] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[662619.929035] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[662619.929043] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[662619.929048] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[662619.929051] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[665959.938086] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[665959.938093] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[665959.938097] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[665959.938100] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[667526.721738] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[667526.721747] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[667526.721752] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[667526.721755] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[668671.463401] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[668671.463407] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[668671.463410] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[668671.463413] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[669641.311372] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[669641.311379] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[669641.311383] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[669641.311385] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[671506.621994] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[671506.622001] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[671506.622004] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[671506.622006] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[673003.624147] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[673003.624155] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[673003.624157] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[673003.624159] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[673920.651477] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[673920.651488] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[673920.651493] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[673920.651497] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[673953.648721] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[673953.648726] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[673953.648729] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=000000c0/00002000
+[673953.648730] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[673953.648731] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[675424.678680] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[675424.678688] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[675424.678692] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[675424.678694] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[677421.040969] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[677421.040975] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[677421.040977] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[677421.040978] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[680576.248661] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[680576.248664] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+[680576.248667] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00001000/00002000
+[680576.248668] pcieport 0000:00:03.0: AER:    [12] Timeout               
+[681442.259095] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[681442.259104] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[681442.259107] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[681442.259109] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[681508.826548] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[681508.826554] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[681508.826556] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[681508.826557] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[683370.405736] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[683370.405743] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[683370.405746] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[683370.405748] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[684792.740335] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[684792.740344] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[684792.740348] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[684792.740350] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[685888.463061] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[685888.463066] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[685888.463070] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[685888.463072] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[686588.403107] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[686588.403114] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[686588.403118] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[686588.403120] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[689025.171058] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[689025.171065] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[689025.171068] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[689025.171071] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[689151.001726] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[689151.001733] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[689151.001737] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[689151.001739] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[690860.305274] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[690860.305281] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[690860.305285] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[690860.305287] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[691205.750032] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[691205.750041] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[691205.750045] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[691205.750047] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[692100.518404] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[692100.518411] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[692100.518415] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[692100.518417] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[692869.077261] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[692869.077268] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[692869.077271] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[692869.077273] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[694158.384204] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[694158.384208] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[694158.384211] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[694158.384212] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[694936.827923] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[694936.827928] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[694936.827931] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[694936.827933] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[695166.980964] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[695166.980971] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[695166.980974] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[695166.980976] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[695705.965419] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[695705.965426] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[695705.965429] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[695705.965431] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[695983.568860] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[695983.568865] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[695983.568868] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[695983.568869] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[697069.088324] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[697069.088331] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[697069.088335] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[697069.088337] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[698149.357205] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[698149.357210] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[698149.357213] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[698149.357215] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[698516.430800] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[698516.430808] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[698516.430812] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[698516.430814] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[699099.378368] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[699099.378375] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[699099.378379] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[699099.378382] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[699878.636291] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[699878.636297] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[699878.636300] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[699878.636301] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[701160.375090] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[701160.375100] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[701160.375105] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[701160.375109] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[702758.205459] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[702758.205465] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[702758.205469] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[702758.205471] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[704020.238590] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[704020.238597] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[704020.238601] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[704020.238603] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[705410.565102] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[705410.565107] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[705410.565110] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[705410.565112] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[706965.320538] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[706965.320543] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[706965.320547] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[706965.320549] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[708844.942987] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[708844.942996] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[708844.943000] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[708844.943002] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[710378.568081] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[710378.568089] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[710378.568093] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[710378.568095] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[710489.176254] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[710489.176261] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[710489.176265] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[710489.176267] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[712192.536955] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[712192.536961] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[712192.536964] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[712192.536965] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[712347.662032] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[712347.662038] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[712347.662040] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[712347.662041] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[714725.847124] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[714725.847131] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[714725.847134] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[714725.847136] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[716348.531917] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[716348.531927] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[716348.531932] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[716348.531936] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[716773.015580] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[716773.015587] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[716773.015591] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[716773.015593] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[717368.725887] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[717368.725895] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[717368.725898] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[717368.725901] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[719382.248706] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[719382.248710] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[719382.248713] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[719382.248714] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[722919.116697] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[722919.116704] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[722919.116707] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[722919.116710] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[722968.802698] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[722968.802704] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[722968.802706] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[722968.802708] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[723236.980283] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[723236.980288] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[723236.980291] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[723236.980292] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[724015.622751] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[724015.622757] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[724015.622761] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[724015.622763] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[724190.096510] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[724190.096517] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[724190.096520] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[724190.096522] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[792038.871479] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[792038.871487] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[792038.871490] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[792038.871492] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[836675.210395] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[836675.210402] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[836675.210405] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[836675.210407] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[845058.825960] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[845727.737318] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[850621.561437] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[863363.864130] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[863363.864135] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[863363.864139] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[863363.864141] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[867593.107872] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[898134.371320] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[899950.389743] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[908121.706388] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[908121.706396] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[908121.706401] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[908121.706404] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[910811.006286] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[912367.046213] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[913634.002106] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[921545.096763] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[921545.096770] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+[921545.096775] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00001000/00002000
+[921545.096779] pcieport 0000:00:03.0: AER:    [12] Timeout               
+[1006933.429616] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1024440.893552] SGI XFS with ACLs, security attributes, realtime, no debug enabled
+[1024440.898335] JFS: nTxBlock = 8192, nTxLock = 65536
+[1024440.912511] ntfs: driver 2.1.32 [Flags: R/O MODULE].
+[1024440.928238] QNX4 filesystem 0.2.3 registered.
+[1024440.982485] raid6: avx2x4   gen() 31243 MB/s
+[1024441.030490] raid6: avx2x4   xor() 19509 MB/s
+[1024441.078498] raid6: avx2x2   gen() 27656 MB/s
+[1024441.126500] raid6: avx2x2   xor() 16475 MB/s
+[1024441.174504] raid6: avx2x1   gen() 23860 MB/s
+[1024441.222504] raid6: avx2x1   xor() 15679 MB/s
+[1024441.270504] raid6: sse2x4   gen() 17469 MB/s
+[1024441.318508] raid6: sse2x4   xor() 11111 MB/s
+[1024441.366509] raid6: sse2x2   gen() 14870 MB/s
+[1024441.414511] raid6: sse2x2   xor()  9356 MB/s
+[1024441.462515] raid6: sse2x1   gen() 12353 MB/s
+[1024441.510517] raid6: sse2x1   xor()  9010 MB/s
+[1024441.510517] raid6: using algorithm avx2x4 gen() 31243 MB/s
+[1024441.510518] raid6: .... xor() 19509 MB/s, rmw enabled
+[1024441.510518] raid6: using avx2x2 recovery algorithm
+[1024441.516981] xor: automatically using best checksumming function   avx       
+[1024441.534670] Btrfs loaded, crc32c=crc32c-intel
+[1035770.629693] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[1035770.629696] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1035770.629699] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[1035770.629701] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[1063615.112247] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1082941.926991] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1086986.407871] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1087010.396880] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1094785.882056] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1094801.350659] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1112859.247203] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[1112859.247209] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+[1112859.247215] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00001000/00002000
+[1112859.247219] pcieport 0000:00:03.0: AER:    [12] Timeout               
+[1113104.923887] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1113104.923894] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1113104.923896] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1113104.923897] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1126853.915711] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1126853.915717] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1126853.915721] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1126853.915722] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1127764.149599] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1130309.885528] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1130326.306230] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1132685.774672] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1134657.195213] usb 2-1.1: new high-speed USB device number 37 using ehci-pci
+[1134657.596625] usb 2-1.1: New USB device found, idVendor=0816, idProduct=0812, bcdDevice= 0.04
+[1134657.596628] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[1134657.596630] usb 2-1.1: Product: USB2.0 PC Camera
+[1134657.596632] usb 2-1.1: Manufacturer: RYS Corp.
+[1134657.656683] mc: Linux media interface: v0.10
+[1134657.663930] videodev: Linux video capture interface: v2.00
+[1134657.688950] usbcore: registered new interface driver snd-usb-audio
+[1134657.695533] uvcvideo: Found UVC 1.00 device USB2.0 PC Camera (0816:0812)
+[1134657.751290] uvcvideo 2-1.1:1.0: Entity type for entity Processing 2 was not initialized!
+[1134657.751294] uvcvideo 2-1.1:1.0: Entity type for entity Extension 6 was not initialized!
+[1134657.751296] uvcvideo 2-1.1:1.0: Entity type for entity Camera 1 was not initialized!
+[1134657.751410] input: USB2.0 PC Camera: USB2.0 PC Cam as /devices/pci0000:00/0000:00:1d.0/usb2/2-1/2-1.1/2-1.1:1.0/input/input27
+[1134657.751510] usbcore: registered new interface driver uvcvideo
+[1134657.751511] USB Video Class driver (1.1.1)
+[1134828.228023] usb 2-1.1: USB disconnect, device number 37
+[1134913.953700] usb 2-1.1: new high-speed USB device number 38 using ehci-pci
+[1134914.359159] usb 2-1.1: New USB device found, idVendor=0816, idProduct=0812, bcdDevice= 0.04
+[1134914.359163] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[1134914.359165] usb 2-1.1: Product: USB2.0 PC Camera
+[1134914.359167] usb 2-1.1: Manufacturer: RYS Corp.
+[1134914.373315] uvcvideo: Found UVC 1.00 device USB2.0 PC Camera (0816:0812)
+[1134914.429090] uvcvideo 2-1.1:1.0: Entity type for entity Processing 2 was not initialized!
+[1134914.429094] uvcvideo 2-1.1:1.0: Entity type for entity Extension 6 was not initialized!
+[1134914.429097] uvcvideo 2-1.1:1.0: Entity type for entity Camera 1 was not initialized!
+[1134914.429251] input: USB2.0 PC Camera: USB2.0 PC Cam as /devices/pci0000:00/0000:00:1d.0/usb2/2-1/2-1.1/2-1.1:1.0/input/input28
+[1134936.772012] usb 2-1.1: USB disconnect, device number 38
+[1134936.772756] uvcvideo: Failed to resubmit video URB (-19).
+[1134936.776758] uvcvideo: Failed to resubmit video URB (-19).
+[1134936.780757] uvcvideo: Failed to resubmit video URB (-19).
+[1134936.784754] uvcvideo: Failed to resubmit video URB (-19).
+[1134936.788757] uvcvideo: Failed to resubmit video URB (-19).
+[1134938.274639] usb 2-1.1: new high-speed USB device number 39 using ehci-pci
+[1134938.680060] usb 2-1.1: New USB device found, idVendor=0816, idProduct=0812, bcdDevice= 0.04
+[1134938.680064] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[1134938.680067] usb 2-1.1: Product: USB2.0 PC Camera
+[1134938.680069] usb 2-1.1: Manufacturer: RYS Corp.
+[1134938.694207] uvcvideo: Found UVC 1.00 device USB2.0 PC Camera (0816:0812)
+[1134938.750137] uvcvideo 2-1.1:1.0: Entity type for entity Processing 2 was not initialized!
+[1134938.750141] uvcvideo 2-1.1:1.0: Entity type for entity Extension 6 was not initialized!
+[1134938.750144] uvcvideo 2-1.1:1.0: Entity type for entity Camera 1 was not initialized!
+[1134938.750255] input: USB2.0 PC Camera: USB2.0 PC Cam as /devices/pci0000:00/0000:00:1d.0/usb2/2-1/2-1.1/2-1.1:1.0/input/input29
+[1134947.524160] usb 2-1.1: USB disconnect, device number 39
+[1134947.524649] uvcvideo: Failed to resubmit video URB (-19).
+[1134947.528650] uvcvideo: Failed to resubmit video URB (-19).
+[1134947.532648] uvcvideo: Failed to resubmit video URB (-19).
+[1134947.536650] uvcvideo: Failed to resubmit video URB (-19).
+[1134947.540644] uvcvideo: Failed to resubmit video URB (-19).
+[1135004.577412] usb 2-1.1: new high-speed USB device number 40 using ehci-pci
+[1135004.982836] usb 2-1.1: New USB device found, idVendor=0816, idProduct=0812, bcdDevice= 0.04
+[1135004.982838] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[1135004.982840] usb 2-1.1: Product: USB2.0 PC Camera
+[1135004.982841] usb 2-1.1: Manufacturer: RYS Corp.
+[1135004.996850] uvcvideo: Found UVC 1.00 device USB2.0 PC Camera (0816:0812)
+[1135005.052708] uvcvideo 2-1.1:1.0: Entity type for entity Processing 2 was not initialized!
+[1135005.052711] uvcvideo 2-1.1:1.0: Entity type for entity Extension 6 was not initialized!
+[1135005.052712] uvcvideo 2-1.1:1.0: Entity type for entity Camera 1 was not initialized!
+[1135005.052791] input: USB2.0 PC Camera: USB2.0 PC Cam as /devices/pci0000:00/0000:00:1d.0/usb2/2-1/2-1.1/2-1.1:1.0/input/input30
+[1135134.916352] usb 2-1.1: USB disconnect, device number 40
+[1136101.114169] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1137407.651328] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1138049.169400] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1139882.979454] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1139882.979461] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1139882.979464] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1139882.979466] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1140205.113460] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1143971.166919] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 2
+[1146610.213656] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1146610.213664] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1146610.213669] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1146610.213672] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1147786.754931] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1168453.470732] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1206975.611791] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[1206975.611796] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1206975.611799] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[1206975.611800] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[1211023.263787] input: 04:52:C7:EF:B0:79 as /devices/virtual/input/input31
+[1217793.420522] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1218161.354590] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1218161.354597] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1218161.354600] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1218161.354601] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1220173.177591] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1223275.452068] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1225954.357644] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1226517.904983] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1227532.814843] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1228971.875736] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1230306.592554] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1231037.717310] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1231067.982519] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1231335.633304] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1231362.958372] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1231547.465821] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1231661.746441] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1234710.106457] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1238855.296696] audit: type=1400 audit(1601070113.192:76): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/core/9993/usr/lib/snapd/snap-confine" pid=23071 comm="apparmor_parser"
+[1238855.296703] audit: type=1400 audit(1601070113.192:77): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/core/9993/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=23071 comm="apparmor_parser"
+[1238855.531026] audit: type=1400 audit(1601070113.424:78): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.gnome-characters.gnome-characters" pid=23074 comm="apparmor_parser"
+[1238855.679654] audit: type=1400 audit(1601070113.572:79): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap-update-ns.gnome-characters" pid=23073 comm="apparmor_parser"
+[1238855.685793] audit: type=1400 audit(1601070113.580:80): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.core" pid=23085 comm="apparmor_parser"
+[1238855.687025] audit: type=1400 audit(1601070113.580:81): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.core.hook.configure" pid=23086 comm="apparmor_parser"
+[1238857.173980] audit: type=1400 audit(1601070115.068:82): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/core/9993/usr/lib/snapd/snap-confine" pid=23238 comm="apparmor_parser"
+[1238857.173987] audit: type=1400 audit(1601070115.068:83): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/core/9993/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=23238 comm="apparmor_parser"
+[1238857.505551] audit: type=1400 audit(1601070115.400:84): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.gnome-characters.gnome-characters" pid=23241 comm="apparmor_parser"
+[1238857.674212] audit: type=1400 audit(1601070115.568:85): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.gnome-characters" pid=23240 comm="apparmor_parser"
+[1259256.987427] kauditd_printk_skb: 2 callbacks suppressed
+[1259256.987430] audit: type=1400 audit(1601090514.051:88): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/core/9993/usr/lib/snapd/snap-confine" pid=22184 comm="apparmor_parser"
+[1259256.987437] audit: type=1400 audit(1601090514.051:89): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/core/9993/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=22184 comm="apparmor_parser"
+[1259257.262249] audit: type=1400 audit(1601090514.327:90): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.gnome-calculator.gnome-calculator" pid=22190 comm="apparmor_parser"
+[1259257.406721] audit: type=1400 audit(1601090514.471:91): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap-update-ns.gnome-calculator" pid=22189 comm="apparmor_parser"
+[1259257.414618] audit: type=1400 audit(1601090514.479:92): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.core" pid=22201 comm="apparmor_parser"
+[1259257.417222] audit: type=1400 audit(1601090514.483:93): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.core.hook.configure" pid=22202 comm="apparmor_parser"
+[1259258.887557] audit: type=1400 audit(1601090515.951:94): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/core/9993/usr/lib/snapd/snap-confine" pid=22387 comm="apparmor_parser"
+[1259258.887562] audit: type=1400 audit(1601090515.951:95): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/core/9993/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=22387 comm="apparmor_parser"
+[1259259.200682] audit: type=1400 audit(1601090516.263:96): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.gnome-calculator.gnome-calculator" pid=22390 comm="apparmor_parser"
+[1259259.283083] audit: type=1400 audit(1601090516.347:97): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.gnome-calculator" pid=22389 comm="apparmor_parser"
+[1279194.082891] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[1279194.082897] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1279194.082903] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000080/00002000
+[1279194.082907] pcieport 0000:00:03.0: AER:    [ 7] BadDLLP               
+[1304099.457754] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1304099.457760] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1304099.457762] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1304099.457764] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1320976.575462] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1323412.411635] kauditd_printk_skb: 2 callbacks suppressed
+[1323412.411637] audit: type=1400 audit(1601154666.858:100): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/usr/share/nvidia/nvidia-application-profiles-450.66-rc" pid=25869 comm="soffice.bin" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[1323412.412385] audit: type=1400 audit(1601154666.858:101): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/proc/25869/comm" pid=25869 comm="soffice.bin" requested_mask="r" denied_mask="r" fsuid=1000 ouid=1000
+[1323412.445488] audit: type=1400 audit(1601154666.890:102): apparmor="ALLOWED" operation="sendmsg" profile="libreoffice-soffice" pid=25869 comm="soffice.bin" family="unix" sock_type="dgram" protocol=0 requested_mask="send" denied_mask="send" addr=none peer_addr="@7661722F72756E2F6E76696469612D786472697665722D39396261646339660000000000000000000000000000000000000000000000000000000000000000" peer="unconfined"
+[1323412.446337] audit: type=1400 audit(1601154666.894:103): apparmor="ALLOWED" operation="sendmsg" profile="libreoffice-soffice" pid=25869 comm="soffice.bin" family="unix" sock_type="dgram" protocol=0 requested_mask="send" denied_mask="send" addr=none peer_addr="@7661722F72756E2F6E76696469612D786472697665722D39396261646339660000000000000000000000000000000000000000000000000000000000000000" peer="unconfined"
+[1323412.452749] audit: type=1400 audit(1601154666.898:104): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/proc/modules" pid=25869 comm="soffice.bin" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[1323412.452886] audit: type=1400 audit(1601154666.898:105): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/proc/devices" pid=25869 comm="soffice.bin" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[1323412.453074] audit: type=1400 audit(1601154666.898:106): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/proc/driver/nvidia/params" pid=25869 comm="soffice.bin" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[1323412.453117] audit: type=1400 audit(1601154666.898:107): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/dev/nvidiactl" pid=25869 comm="soffice.bin" requested_mask="wr" denied_mask="wr" fsuid=1000 ouid=0
+[1323412.453156] audit: type=1400 audit(1601154666.898:108): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/sys/devices/system/memory/block_size_bytes" pid=25869 comm="soffice.bin" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[1323412.453277] audit: type=1400 audit(1601154666.898:109): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/proc/modules" pid=25869 comm="soffice.bin" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[1323421.190284] kauditd_printk_skb: 388 callbacks suppressed
+[1323421.190288] audit: type=1400 audit(1601154675.634:498): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/home/nitin/.thunderbird/profiles.ini" pid=25835 comm="soffice.bin" requested_mask="r" denied_mask="r" fsuid=1000 ouid=1000
+[1323421.203812] audit: type=1400 audit(1601154675.650:499): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/home/nitin/.thunderbird/8s9opepm.default/secmod.db" pid=25835 comm="soffice.bin" requested_mask="r" denied_mask="r" fsuid=1000 ouid=1000
+[1323421.212119] audit: type=1400 audit(1601154675.658:500): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/home/nitin/.thunderbird/8s9opepm.default/cert8.db" pid=25835 comm="soffice.bin" requested_mask="wr" denied_mask="wr" fsuid=1000 ouid=1000
+[1323421.214208] audit: type=1400 audit(1601154675.658:501): apparmor="ALLOWED" operation="open" profile="libreoffice-soffice" name="/home/nitin/.thunderbird/8s9opepm.default/key3.db" pid=25835 comm="soffice.bin" requested_mask="wr" denied_mask="wr" fsuid=1000 ouid=1000
+[1324135.035362] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1325798.762908] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1327330.919142] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1327376.912993] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1386093.285788] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1393480.862996] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1393633.225215] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1393679.687122] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1398697.529371] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1398697.529379] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1398697.529383] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1398697.529385] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1400415.721749] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1403764.949925] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1408892.998727] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1410900.580365] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1413914.107004] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1421203.621827] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1421203.621835] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1421203.621838] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1421203.621840] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1422269.602969] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1422269.602980] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1422269.602985] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1422269.602989] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1423323.242279] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1424519.798905] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 2
+[1424835.287785] usb 2-1.1: new full-speed USB device number 41 using ehci-pci
+[1424835.405873] usb 2-1.1: language id specifier not provided by device, defaulting to English
+[1424835.406373] usb 2-1.1: New USB device found, idVendor=26ac, idProduct=0015, bcdDevice= 1.01
+[1424835.406376] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1424835.406377] usb 2-1.1: Product: PX4 FLOW v1.3
+[1424835.406378] usb 2-1.1: Manufacturer: 3D Robotics
+[1424835.406380] usb 2-1.1: SerialNumber: 0
+[1424835.406718] cdc_acm 2-1.1:1.0: ttyACM0: USB ACM device
+[1424840.187251] usb 2-1.1: USB disconnect, device number 41
+[1424840.412764] usb 2-1.1: new full-speed USB device number 42 using ehci-pci
+[1424840.526257] usb 2-1.1: New USB device found, idVendor=26ac, idProduct=0015, bcdDevice= 2.00
+[1424840.526261] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1424840.526263] usb 2-1.1: Product: PX4Flow v1.3
+[1424840.526265] usb 2-1.1: Manufacturer: 3D Robotics
+[1424840.526267] usb 2-1.1: SerialNumber: 000000000000
+[1424840.526700] cdc_acm 2-1.1:1.0: ttyACM0: USB ACM device
+[1424979.963451] usb 2-1.1: USB disconnect, device number 42
+[1425232.347943] usb 2-1.1: new full-speed USB device number 43 using ehci-pci
+[1425232.458065] usb 2-1.1: language id specifier not provided by device, defaulting to English
+[1425232.458572] usb 2-1.1: New USB device found, idVendor=26ac, idProduct=0015, bcdDevice= 1.01
+[1425232.458575] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1425232.458577] usb 2-1.1: Product: PX4 FLOW v1.3
+[1425232.458579] usb 2-1.1: Manufacturer: 3D Robotics
+[1425232.458580] usb 2-1.1: SerialNumber: 0
+[1425232.458994] cdc_acm 2-1.1:1.0: ttyACM0: USB ACM device
+[1425236.987676] usb 2-1.1: USB disconnect, device number 43
+[1425237.216084] usb 2-1.1: new full-speed USB device number 44 using ehci-pci
+[1425237.326178] usb 2-1.1: New USB device found, idVendor=26ac, idProduct=0015, bcdDevice= 2.00
+[1425237.326180] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1425237.326181] usb 2-1.1: Product: PX4Flow v1.3
+[1425237.326182] usb 2-1.1: Manufacturer: 3D Robotics
+[1425237.326183] usb 2-1.1: SerialNumber: 000000000000
+[1425237.326606] cdc_acm 2-1.1:1.0: ttyACM0: USB ACM device
+[1425277.947721] usb 2-1.1: USB disconnect, device number 44
+[1425279.709851] usb 2-1.1: new full-speed USB device number 45 using ehci-pci
+[1425279.819725] usb 2-1.1: language id specifier not provided by device, defaulting to English
+[1425279.820098] usb 2-1.1: New USB device found, idVendor=26ac, idProduct=0015, bcdDevice= 1.01
+[1425279.820100] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1425279.820101] usb 2-1.1: Product: PX4 FLOW v1.3
+[1425279.820102] usb 2-1.1: Manufacturer: 3D Robotics
+[1425279.820103] usb 2-1.1: SerialNumber: 0
+[1425279.820534] cdc_acm 2-1.1:1.0: ttyACM0: USB ACM device
+[1425284.347736] usb 2-1.1: USB disconnect, device number 45
+[1425284.570061] usb 2-1.1: new full-speed USB device number 46 using ehci-pci
+[1425284.680233] usb 2-1.1: New USB device found, idVendor=26ac, idProduct=0015, bcdDevice= 2.00
+[1425284.680236] usb 2-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1425284.680239] usb 2-1.1: Product: PX4Flow v1.3
+[1425284.680241] usb 2-1.1: Manufacturer: 3D Robotics
+[1425284.680243] usb 2-1.1: SerialNumber: 000000000000
+[1425284.680691] cdc_acm 2-1.1:1.0: ttyACM0: USB ACM device
+[1425429.243884] usb 2-1.1: USB disconnect, device number 46
+[1426197.307387] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1454980.504515] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[1454980.504522] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1454980.504528] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1454980.504532] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1470611.228539] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1470666.186781] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 2
+[1470717.848939] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1473703.854219] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1477289.664614] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1482252.958768] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1484624.515242] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1487660.695065] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1488663.651543] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[1488663.651550] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+[1488663.651556] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00001000/00002000
+[1488663.651560] pcieport 0000:00:03.0: AER:    [12] Timeout               
+[1492985.286857] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1492985.286866] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1492985.286872] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1492985.286876] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1493866.431108] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1493866.431116] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1493866.431120] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1493866.431121] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1497247.785603] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1499053.591226] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1499941.327336] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1500427.500498] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1502182.207169] perf: interrupt took too long (6187 > 6183), lowering kernel.perf_event_max_sample_rate to 32250
+[1502202.657781] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1506353.164930] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 2
+[1508844.485557] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1515420.297849] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1516333.027406] pcieport 0000:00:03.0: AER: Corrected error received: 0000:00:03.0
+[1516333.027414] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Transmitter ID)
+[1516333.027419] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00001000/00002000
+[1516333.027422] pcieport 0000:00:03.0: AER:    [12] Timeout               
+[1517148.604416] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1528249.687537] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1528249.687543] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1528249.687546] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1528249.687548] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1549695.277769] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1549695.277779] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1549695.277784] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1549695.277788] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1564701.564632] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 0
+[1572811.094848] traps: chrome[6764] trap invalid opcode ip:563362468b2a sp:7ffc18750910 error:0 in chrome[56335b1be000+7bf3000]
+[1572963.913417] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1575971.891653] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 2
+[1576561.191622] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1577181.165160] pcieport 0000:00:03.0: AER: Multiple Corrected error received: 0000:00:03.0
+[1577181.165166] pcieport 0000:00:03.0: AER: PCIe Bus Error: severity=Corrected, type=Data Link Layer, (Receiver ID)
+[1577181.165169] pcieport 0000:00:03.0: AER:   device [8086:6f08] error status/mask=00000040/00002000
+[1577181.165172] pcieport 0000:00:03.0: AER:    [ 6] BadTLP                
+[1577499.809789] snd_hda_codec_hdmi hdaudioC1D0: HDMI: invalid ELD data byte 1
+[1579513.471944] usb 2-1.1: new high-speed USB device number 47 using ehci-pci
+[1579513.580668] usb 2-1.1: New USB device found, idVendor=214b, idProduct=7000, bcdDevice= 1.00
+[1579513.580672] usb 2-1.1: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+[1579513.580674] usb 2-1.1: Product: USB2.0 HUB
+[1579513.581117] hub 2-1.1:1.0: USB hub found
+[1579513.581244] hub 2-1.1:1.0: 4 ports detected
+[1579565.473351] usb 2-1.1: USB disconnect, device number 47
+[1579573.118367] usb 2-1.1: new high-speed USB device number 48 using ehci-pci
+[1579573.230959] usb 2-1.1: New USB device found, idVendor=214b, idProduct=7000, bcdDevice= 1.00
+[1579573.230963] usb 2-1.1: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+[1579573.230965] usb 2-1.1: Product: USB2.0 HUB
+[1579573.231356] hub 2-1.1:1.0: USB hub found
+[1579573.231431] hub 2-1.1:1.0: 4 ports detected
+[1579588.769321] usb 2-1.1: USB disconnect, device number 48
+[1579607.423791] usb 2-1.1: new high-speed USB device number 49 using ehci-pci
+[1579607.532348] usb 2-1.1: New USB device found, idVendor=214b, idProduct=7000, bcdDevice= 1.00
+[1579607.532350] usb 2-1.1: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+[1579607.532351] usb 2-1.1: Product: USB2.0 HUB
+[1579607.532614] hub 2-1.1:1.0: USB hub found
+[1579607.532713] hub 2-1.1:1.0: 4 ports detected
+[1579910.305674] usb 2-1.1: USB disconnect, device number 49
+[1579949.193723] usb 2-1.1: new high-speed USB device number 50 using ehci-pci
+[1579949.302337] usb 2-1.1: New USB device found, idVendor=214b, idProduct=7000, bcdDevice= 1.00
+[1579949.302340] usb 2-1.1: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+[1579949.302342] usb 2-1.1: Product: USB2.0 HUB
+[1579949.302630] hub 2-1.1:1.0: USB hub found
+[1579949.302709] hub 2-1.1:1.0: 4 ports detected

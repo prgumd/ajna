@@ -1,0 +1,85 @@
+#!/usr/bin/env python3
+
+import Misc.MiscUtils as mu
+import random
+import os
+import cv2
+import numpy as np
+import tensorflow as tf
+import Misc.ImageUtils as iu
+import Misc.warpICSTN2 as warp2
+import Misc.MiscUtils as mu
+import scipy.io as sio
+import imageio
+import argparse
+
+
+def main():
+    """
+    Inputs: 
+    None
+    Outputs:
+    Runs the Training and testing code based on the Flag
+    """
+    # Parse Command Line arguments
+    Parser = argparse.ArgumentParser()
+    Parser.add_argument('--BasePath', default='/home/nitin/Datasets/FlyingChairs2', help='Base path of images, Default:/home/nitin/Datasets/FlyingChairs2')
+    Parser.add_argument('--LabelBasePath', default='/media/nitin/Research2/FlyingThings3D/flyingthings3d_optical_flow/', help='Base path of images, Default://media/nitin/Research2/FlyingThings3D/flyingthings3d__optical_flow/optical_flow')
+    Parser.add_argument('--NumEpochs', type=int, default=50, help='Number of Epochs to Train for, Default:10')
+    Parser.add_argument('--DivTrain', type=int, default=1, help='Factor to reduce Train data by per epoch, Default:1')
+    Parser.add_argument('--MiniBatchSize', type=int, default=32, help='Size of the MiniBatch to use, Default:32')
+    Parser.add_argument('--LoadCheckPoint', type=int, default=0, help='Load Model from latest Checkpoint from CheckPointPath?, Default:0')
+    Parser.add_argument('--RemoveLogs', type=int, default=0, help='Delete log Files from ./Logs?, Default:0')
+    Parser.add_argument('--LossFuncName', default='SL1-1', help='Choice of Loss functions, choose from SL2, PhotoL1, PhotoChab, PhotoRobust. Default:SL2')
+    Parser.add_argument('--RegFuncName', default='None', help='Choice of regularization function, choose from None, C (Cornerness). Default:None')
+    Parser.add_argument('--NetworkType', default='Large', help='Choice of Network type, choose from Small, Large, Default:Large')
+    Parser.add_argument('--NetworkName', default='Network.ResNet', help='Name of network file, Default: Network.VanillaNet')
+    Parser.add_argument('--CheckPointPath', default='/media/nitin/Education/PRGEyeOmni/CheckPoints/', help='Path to save checkpoints, Default:/media/nitin/Education/PRGEyeOmni/CheckPoints/')
+    Parser.add_argument('--LogsPath', default='/media/nitin/Education/PRGEyeOmni/Logs/', help='Path to save Logs, Default:/media/nitin/Education/PRGEyeOmni/Logs/')
+    Parser.add_argument('--GPUDevice', type=int, default=0, help='What GPU do you want to use? -1 for CPU, Default:0')
+    Parser.add_argument('--DataAug', type=int, default=0, help='Do you want to do Data augmentation?, Default:0')
+    Parser.add_argument('--LR', type=float, default=1e-4, help='Learning Rate, Default: 1e-4')
+    Parser.add_argument('--InitNeurons', type=float, default=32, help='Learning Rate, Default: 32')
+    Parser.add_argument('--Suffix', default='', help='Suffix for Naming Network, Default: ''')
+    Parser.add_argument('--UncType', default='None', help='What type of uncertainity do you want? Choose from None or Aleatoric, Default: None')
+    Parser.add_argument('--Dataset', default='FC2', help='Dataset: FC2 for Flying Chairs 2 or FT3D for Flying Things 3D, Default: FC2')
+    
+    Args = Parser.parse_args()
+    
+    # Import Network Module
+    Args.Net = importlib.import_module(Args.NetworkName)
+
+    # Set GPUDevice
+    tu.SetGPU(Args.GPUDevice)
+
+    if(Args.RemoveLogs is not 0):
+        shutil.rmtree(os.getcwd() + os.sep + 'Logs' + os.sep)
+
+    # Setup all needed parameters including file reading
+    Args = SetupAll(Args)    
+
+    # If CheckPointPath doesn't exist make the path
+    if(not (os.path.isdir(Args.CheckPointPath))):
+       os.makedirs(Args.CheckPointPath)
+    
+    # Find Latest Checkpoint File
+    if Args.LoadCheckPoint==1:
+        Args.LatestFile = FindLatestModel(Args.CheckPointPath)
+    else:
+        Args.LatestFile = None
+        
+    # Define PlaceHolder variables for Input and Predicted output
+    InputPH = tf.placeholder(tf.float32, shape=(Args.MiniBatchSize, Args.PatchSize[0], Args.PatchSize[1], 2*Args.PatchSize[2]), name='Input')
+
+    # PH for losses
+    I1PH = tf.placeholder(tf.float32, shape=(Args.MiniBatchSize, Args.PatchSize[0], Args.PatchSize[1], Args.PatchSize[2]), name='I1')
+    I2PH = tf.placeholder(tf.float32, shape=(Args.MiniBatchSize, Args.PatchSize[0], Args.PatchSize[1], Args.PatchSize[2]), name='I2')
+    
+    Label1PH =  tf.placeholder(tf.float32, shape=(Args.MiniBatchSize, Args.PatchSize[0], Args.PatchSize[1], Args.NumOut), name='Label1')
+    Label2PH =  tf.placeholder(tf.float32, shape=(Args.MiniBatchSize, Args.PatchSize[0], Args.PatchSize[1], Args.NumOut), name='Label2')
+   
+    TrainOperation(InputPH, I1PH, I2PH, Label1PH, Label2PH, Args)
+    
+    
+if __name__ == '__main__':
+    main()
