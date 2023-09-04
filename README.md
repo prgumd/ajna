@@ -1,9 +1,9 @@
 # Ajna: Generalized deep uncertainty for minimal perception on parsimonious robots
 
-Ajna was highlighted on the cover of Science Robotics journal in Aug 2023. The paper can be found [here](https://www.science.org/doi/10.1126/scirobotics.add5139) for free. This work is a collaboration between the University of Maryland, College Park ([PRG-UMD](prg.cs.umd.edu)) and Worcester Polytechnic Institute ([PeAR-WPI](pear.wpi.edu)).
+Ajna was highlighted on the cover of Science Robotics journal in Aug 2023. The paper can be found [here](https://www.science.org/doi/10.1126/scirobotics.add5139) for free. This work is a collaboration between the University of Maryland, College Park ([PRG-UMD](prg.cs.umd.edu)) and Worcester Polytechnic Institute ([PeAR-WPI](pear.wpi.edu)). Please refer to the wiki for 
 
 Please check out the video for a description of the approach.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VTEaJFb9AaE?si=7qiYHHL_SP754AVr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Ajna Explanation Video](Video.png)](https://www.youtube.com/watch?v=VTEaJFb9AaE")
 
 We present an approach to estimate uncertainty of any neural network with a loss function that can be adapted to modify any existing loss function for any class of robotics problems. We showcase the approach's efficacy in flying through gaps, navigating through a static environment, dodging dynamic obstacles and segmenting objects from a scene.
 
