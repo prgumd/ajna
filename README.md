@@ -35,4 +35,3 @@ eprint = {https://www.science.org/doi/pdf/10.1126/scirobotics.add5139},
 ## License:
 Copyright (c) 2023 Perception and Robotics Group (PRG-UMD) and Perception and Autonomous Robotics Group (PeAR-WPI)
 
-Chahat: Add License, maybe MIT?
